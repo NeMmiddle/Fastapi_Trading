@@ -1,0 +1,32 @@
+# Fastapi_Trading
+### A project for adding transactions on transactions and sending any changes to them to the user by mail
+&nbsp;  
+
+---
+### *Don't forget to change the data in the file .env*      
+---
+&nbsp; 
+### You can run it as it is usually done:
+```
+python3 -m venv venv
+
+source venv/bin/activate
+```
+### After activating the environment, install the dependencies:
+```
+pip install -r requirements.txt
+```
+
+### And then going to the SRC folder we write in the terminal:
+```
+uvicorn main:app --reload
+```
+---
+### You can also run the project through docker:
+```
+docker compose build
+```
+### Then:
+```
+docker compose up
+```
