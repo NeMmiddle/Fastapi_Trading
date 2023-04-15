@@ -1,5 +1,5 @@
 # Fastapi_Trading
-### A project for adding transactions on transactions and sending any changes to them to the user by mail
+### Conducting various operations, transactions, notifying the user by mail if there have been changes in his transactions
 &nbsp;  
 
 ---
